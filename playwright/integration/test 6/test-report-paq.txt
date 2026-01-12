@@ -1,0 +1,36 @@
+[2026-01-11T23:49:23.905Z] Inicio del test: Proceso de posiciones
+[2026-01-11T23:49:23.906Z] Inicio del test: Añadir nuevo candidato
+[2026-01-11T23:49:23.917Z] Inicio del test: Proceso de posiciones (segunda columna)
+[2026-01-11T23:49:25.463Z] Botón "Añadir nuevo candidato" presionado
+[2026-01-11T23:49:25.640Z] Botón "Ir a posiciones" presionado
+[2026-01-11T23:49:25.736Z] Botón "Ir a posiciones" presionado
+[2026-01-11T23:49:25.748Z] Botón "Enviar" visible
+[2026-01-11T23:49:25.751Z] Datos del candidato seleccionado: {"firstName":"Carlos","lastName":"López","email":"carlos.lopez@email.com","phone":"600456789","address":"Calle Sol 5, Valencia"}
+[2026-01-11T23:49:25.948Z] Elemento "busca por titulo" visible
+[2026-01-11T23:49:25.982Z] Primera posición seleccionada (forzada): Senior Full-Stack Engineer
+[2026-01-11T23:49:26.088Z] Elemento "busca por titulo" visible
+[2026-01-11T23:49:26.128Z] Cartilla seleccionada: Data Scientist
+[2026-01-11T23:49:26.280Z] Campos del formulario completados
+[2026-01-11T23:49:26.346Z] Botón "Ver Proceso" presionado para: Senior Full-Stack Engineer
+[2026-01-11T23:49:26.392Z] Botón "Enviar" presionado
+[2026-01-11T23:49:26.456Z] Botón "Ver Proceso" presionado para: Data Scientist
+[2026-01-11T23:49:26.692Z] Proceso exitoso: Candidato añadido con éxito
+[2026-01-11T23:49:26.726Z] Elemento "Ver Posiciones" visible
+[2026-01-11T23:49:26.730Z] Elemento "Ver Posiciones" visible
+[2026-01-11T23:49:26.742Z] Número de columnas encontradas: 3
+[2026-01-11T23:49:26.744Z] Número de columnas encontradas: 0
+[2026-01-11T23:49:26.745Z] Total de candidatos en todas las fases: 0
+[2026-01-11T23:49:26.750Z] No hay candidatos en ninguna fase, no se puede realizar cambio de fase
+[2026-01-11T23:49:26.758Z] Trabajando directamente con la segunda columna (índice 1): "Technical Interview"
+[2026-01-11T23:49:26.875Z] Navegación hacia atrás realizada
+[2026-01-11T23:49:26.954Z] Candidatos en la segunda columna (índice 1): 1
+[2026-01-11T23:49:26.974Z] Candidato seleccionado para mover desde la segunda columna: Jane Smith
+[2026-01-11T23:49:27.078Z] Botón "Añadir nuevo candidato" visible nuevamente
+[2026-01-11T23:49:27.079Z] Finalización del test
+[2026-01-11T23:49:27.157Z] Moviendo candidato de columna 2 a columna 3
+[2026-01-11T23:49:29.638Z] Candidato movido a la columna 3
+[2026-01-11T23:49:29.736Z] Recordado: Candidato "Jane Smith" en columna 3
+[2026-01-11T23:49:29.793Z] Botón "Volver a posiciones" presionado
+[2026-01-11T23:49:29.994Z] Botón "Ver Proceso" presionado nuevamente para: Senior Full-Stack Engineer
+[2026-01-11T23:49:30.144Z] Testeo exitoso: El candidato está en la columna correcta
+[2026-01-11T23:49:30.242Z] Finalización del test de posiciones (segunda columna)

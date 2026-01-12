@@ -1,0 +1,17 @@
+[2026-01-11T22:50:04.110Z] Inicio del test: Proceso de posiciones (segunda columna)
+[2026-01-11T22:50:08.602Z] Botón "Ir a posiciones" presionado
+[2026-01-11T22:50:11.123Z] Elemento "busca por titulo" visible
+[2026-01-11T22:50:13.944Z] Primera posición seleccionada (forzada): Senior Full-Stack Engineer
+[2026-01-11T22:50:17.249Z] Botón "Ver Proceso" presionado para: Senior Full-Stack Engineer
+[2026-01-11T22:50:20.464Z] Elemento "Ver Posiciones" visible
+[2026-01-11T22:50:22.650Z] Número de columnas encontradas: 3
+[2026-01-11T22:50:27.682Z] Trabajando directamente con la segunda columna (índice 1): "Technical Interview"
+[2026-01-11T22:50:31.992Z] Candidatos en la segunda columna (índice 1): 9
+[2026-01-11T22:50:36.730Z] Candidato seleccionado para mover desde la segunda columna: Carlos García
+[2026-01-11T22:50:41.860Z] Moviendo candidato de columna 2 a columna 3
+[2026-01-11T22:50:57.165Z] Candidato movido a la columna 3
+[2026-01-11T22:51:00.870Z] Recordado: Candidato "Carlos García" en columna 3
+[2026-01-11T22:51:02.650Z] Botón "Volver a posiciones" presionado
+[2026-01-11T22:51:14.065Z] Botón "Ver Proceso" presionado nuevamente para: Senior Full-Stack Engineer
+[2026-01-11T22:51:18.360Z] Testeo exitoso: El candidato está en la columna correcta
+[2026-01-11T22:51:19.995Z] Finalización del test de posiciones (segunda columna)

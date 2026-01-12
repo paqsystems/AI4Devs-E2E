@@ -1,0 +1,10 @@
+[2026-01-11T22:29:41.845Z] Inicio del test: Añadir nuevo candidato
+[2026-01-11T22:30:07.111Z] Botón "Añadir nuevo candidato" presionado
+[2026-01-11T22:30:09.653Z] Botón "Enviar" visible
+[2026-01-11T22:30:11.474Z] Datos del candidato seleccionado: {"firstName":"Ana","lastName":"Martínez","email":"ana.martinez@email.com","phone":"600345678","address":"Plaza España 10, Sevilla"}
+[2026-01-11T22:30:14.305Z] Campos del formulario completados
+[2026-01-11T22:30:16.038Z] Botón "Enviar" presionado
+[2026-01-11T22:30:19.819Z] Proceso exitoso: Candidato añadido con éxito
+[2026-01-11T22:30:28.366Z] Navegación hacia atrás realizada
+[2026-01-11T22:30:34.609Z] Botón "Añadir nuevo candidato" visible nuevamente
+[2026-01-11T22:30:35.591Z] Finalización del test

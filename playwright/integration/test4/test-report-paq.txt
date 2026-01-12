@@ -1,0 +1,9 @@
+[2026-01-11T22:43:45.163Z] Inicio del test: Proceso de posiciones
+[2026-01-11T22:43:46.571Z] Botón "Ir a posiciones" presionado
+[2026-01-11T22:43:46.727Z] Elemento "busca por titulo" visible
+[2026-01-11T22:43:46.745Z] Cartilla seleccionada: Data Scientist
+[2026-01-11T22:43:46.963Z] Botón "Ver Proceso" presionado para: Data Scientist
+[2026-01-11T22:43:47.100Z] Elemento "Ver Posiciones" visible
+[2026-01-11T22:43:47.106Z] Número de columnas encontradas: 0
+[2026-01-11T22:43:47.107Z] Hay candidatos en todas las columnas, procediendo con el movimiento
+[2026-01-11T22:43:47.110Z] No se encontró ninguna columna con candidatos
